@@ -55267,8 +55267,7 @@ A.u1.prototype={
 NV(){this.aH(new A.Zj(this))},
 P(a){var s=null,r=A.ay(a).ax,q=r.y2
 r=q==null?r.c:q
-this.a.toString
-q=A.a82("Flutter Demo Home Page",s)
+q=A.a82("\u041f\u0440\u0438\u0432\u0435\u0442 \u0410\u043d\u0434\u0440\u0435\u0439",s)
 return new A.rc(new A.o3(q,r,new A.Fg(s,s,1/0,56),s),A.Jo(A.ae6(A.a([B.JK,A.a82(""+this.d,A.ay(a).p2.e)],t.nA),B.of),s,s),A.a68(B.yl,!1,this.gNU(),"Increment"),s)}}
 A.Zj.prototype={
 $0(){++this.a.d},
